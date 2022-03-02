@@ -1,1 +1,3 @@
 Plik do cwiczenia commitowania pliku
+
+plus sprawdzenie next_branch
