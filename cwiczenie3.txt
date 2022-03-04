@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+do cwiczen mergowania
+=======
+cwiczenie mergowania branchów
+>>>>>>> main
